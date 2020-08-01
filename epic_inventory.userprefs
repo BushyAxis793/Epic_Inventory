@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/my-scripts/ItemSlot.cs">
+    <Files>
+      <File FileName="Assets/my-scripts/ItemSlot.cs" Line="188" Column="27" />
+      <File FileName="Assets/my-scripts/DragDropScript.cs" Line="8" Column="26" />
+      <File FileName="Assets/my-scripts/ItemType.cs" Line="12" Column="7" />
+      <File FileName="Assets/my-scripts/SlotEquipItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/EquipItemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/InventoryHideShow.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/ItemGroundScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/BackpackManager.cs" Line="41" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

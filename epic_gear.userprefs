@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Materials/DemoScript.cs">
+    <Files>
+      <File FileName="Assets/EquipItemScript.cs" Line="17" Column="14" />
+      <File FileName="Assets/HookScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/ItemGroundScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/PlayerBehaviorScript.cs" Line="54" Column="34" />
+      <File FileName="Assets/Materials/DemoScript.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
